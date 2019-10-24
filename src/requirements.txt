@@ -1,0 +1,13 @@
+2 zones:
+Inside EU
+Outside EU
+
+3 prices:
+EU -> EU: 50 €
+EU -> Outside: 100 €
+Outside -> EU: 70 €
+
+When travelling from or to a country that is not in the EU. You can you miles. And 1 miles = 0.01 €
+
+Given a customer (with a given amount of miles), a start point and an end point.
+Compute the price of the ticket (to be charged) and the remaining miles balance of the customer.
